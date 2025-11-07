@@ -1,4 +1,4 @@
-![mwistro's Stats](https://github-readme-stats.vercel.app/api?username=mwistro&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
+[comment]: <> ![mwistro's Stats](https://github-readme-stats.vercel.app/api?username=mwistro&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
 ![mwistro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mwistro&theme=soft-green&hide_border=true)
 
   ##
