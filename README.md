@@ -1,6 +1,7 @@
 [comment]: <![mwistro's Stats](https://github-readme-stats.vercel.app/api?username=mwistro&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)> 
 ![Maistro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mwistro&theme=soft-green&hide_border=true)
-<!-- ![Maistro's Stats](https://github-readme-stats.vercel.app/api?username=mwistro&theme=dark&show_icons=true) -->
+![mwistro's Top Languages](https://github-readme-stats-app-git-main-mwistros-projects.vercel.app/api/top-langs/?username=mwistro&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Maistro's Stats](https://github-readme-stats-app-git-main-mwistros-projects.vercel.app/api?username=mwistro&theme=vue-dark&show_icons=true) 
 
   ##
 
