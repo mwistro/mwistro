@@ -1,5 +1,5 @@
 
-![Maistro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mwistro&theme=soft-green&hide_border=true)
+![Maistro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mwistro&theme=shadow-purple&hide_border=true)
 
   ##
 
