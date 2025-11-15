@@ -28,4 +28,4 @@
 
   ##
 
-[mwistro's Stats](https:/github-readme-stats-app-five.vercel.app/api?username=mwistro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![mwistro's Stats](https:/github-readme-stats-app-five.vercel.app/api?username=mwistro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
