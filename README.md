@@ -1,7 +1,6 @@
 [comment]: <![mwistro's Stats](https://github-readme-stats.vercel.app/api?username=mwistro&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)> 
 ![Maistro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mwistro&theme=soft-green&hide_border=true)
 ![mwistro's Top Languages](https://github-readme-stats-app-git-main-mwistros-projects.vercel.app/api/top-langs/?username=mwistro&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![Maistro's Stats](https://github-readme-stats-app-git-main-mwistros-projects.vercel.app/api?username=mwistro&theme=vue-dark&show_icons=true) 
 
   ##
 
@@ -27,3 +26,12 @@
  	<a href="https://www.twitch.tv/omaistro" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:mwistro.w@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+  ##
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-app-git-main-mwistros-projects.vercel.app/api?username=mwistro&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
