@@ -1,7 +1,5 @@
 
-![Maistro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mwistro&theme=jolly&hide_border=true)
-
-  ##
+ ##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="mwistro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,6 +26,5 @@
 
   ##
 
-  ![Codewars](https://github.r2v.ch/codewars?user=mwistro&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
 
