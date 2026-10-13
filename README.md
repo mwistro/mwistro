@@ -2,24 +2,6 @@
 
 ### A passionate Full Stack Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mwistro&label=Profile%20views&color=0e75b6&style=flat" alt="mwistro" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mwistro&no-frame=true&theme=darkhub" alt="mwistro" /></a> </p>
-
-- 🔭 I'm currently working on **a private full stack scheduling and management system.**
-
-- 🌱 I'm currently learning **Advanced backend development, databases, and full stack best practices**
-
-- 👯 I'm looking to collaborate on **I’m looking to collaborate on full stack projects and backend systems**
-
-- 🤝 I'm looking for help with **growing as a full stack developer**
-
-- 💬 Ask me about **Python, TypeScript, Node.js, React, and full stack development**
-
-- 📫 How to reach me **maistromateus@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://maistro.dev/](https://maistro.dev/)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/mwistro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mwistro" height="30" width="40" /></a>
