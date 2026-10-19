@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300" role="img" aria-labelledby="title description">
+  <title id="title">Mateus Maistro — software, automation and data</title>
+  <desc id="description">Useful software, built around real workflows. Vigo, Spain. GitHub: mwistro.</desc>
+  <rect width="1100" height="300" rx="18" fill="#111827"/>
+  <path d="M38 37H1062" stroke="#293549"/>
+  <text x="40" y="68" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="3" fill="#b5a3f5">SOFTWARE / AUTOMATION / DATA</text>
+  <text x="36" y="142" font-family="Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="-2" fill="#f4f6fc">Mateus Maistro</text>
+  <text x="40" y="188" font-family="Arial,sans-serif" font-size="21" fill="#bbc6d7">Useful software, built around real workflows.</text>
+  <circle cx="45" cy="252" r="4" fill="#8cddc4"/>
+  <text x="61" y="257" font-family="Arial,sans-serif" font-size="13" letter-spacing="1" fill="#a7b6cc">VIGO, SPAIN</text>
+  <text x="212" y="257" font-family="Arial,sans-serif" font-size="13" fill="#718198">/</text>
+  <text x="233" y="257" font-family="Arial,sans-serif" font-size="13" letter-spacing="1" fill="#a7b6cc">@MWISTRO</text>
+  <rect x="774" y="60" width="282" height="185" rx="12" fill="#182334" stroke="#35425b"/>
+  <path d="M774 96H1056" stroke="#35425b"/>
+  <circle cx="795" cy="78" r="3" fill="#8cddc4"/>
+  <circle cx="808" cy="78" r="3" fill="#b5a3f5"/>
+  <circle cx="821" cy="78" r="3" fill="#5a6c87"/>
+  <text x="1029" y="82" text-anchor="end" font-family="Consolas,monospace" font-size="10" fill="#718198">workflow.ts</text>
+  <text x="798" y="129" font-family="Consolas,monospace" font-size="14" fill="#b5a3f5">understand</text>
+  <path d="M806 141V155H822" fill="none" stroke="#4b5e7c"/>
+  <text x="833" y="160" font-family="Consolas,monospace" font-size="14" fill="#d7dfec">build</text>
+  <path d="M841 172V186H857" fill="none" stroke="#4b5e7c"/>
+  <text x="868" y="191" font-family="Consolas,monospace" font-size="14" fill="#8cddc4">refine</text>
+  <path d="M798 220H1032" stroke="#35425b"/>
+</svg>
